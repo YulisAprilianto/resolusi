@@ -3,3 +3,5 @@ RENCANA BAHASA PEMROGRAMAN
 -C++
 -Java
 -Html
+-Css
+-Javascript
