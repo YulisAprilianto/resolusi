@@ -5,4 +5,6 @@ RENCANA BAHASA PEMROGRAMAN
 -Html
 -Css
 -Javascript
+  *Framework Javascript
 -Php
+-Python
