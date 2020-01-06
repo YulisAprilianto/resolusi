@@ -1,3 +1,4 @@
 RESOLUSI
 - Konsisten untuk belajar programing
 - Menguasai salah satu bahasa pemrograman
+- Membuat aplikasi
