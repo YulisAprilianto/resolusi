@@ -6,3 +6,4 @@ RENCANA BAHASA PEMROGRAMAN
 -Css
 -Javascript
 -Php
+-Python
