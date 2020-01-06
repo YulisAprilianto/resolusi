@@ -5,5 +5,5 @@ RENCANA BAHASA PEMROGRAMAN
 -Html
 -Javascript
   *Framework Javascript
-    ^React
 -Php
+-Python
